@@ -1,79 +1,23 @@
-[
-	{
-	"id": 1,
-	"name": "TANK",
-	"heroes": {
-		  "h_id": 1,
-		  "heroname": "BALMOND",
-		  "skin" :{
-			"skin_id": 1,
-			"skin_name": "asdasd",
-			"skin_image": "asdas",
-			"skin_url": "sadas"
-			},
-			 {
-			"skin_id": 2,
-			"skin_name": "asedasd",
-			"skin_image": "asedas",
-			"skin_url": "sadas"
-			},
-		"image": "R.drawable.balmond"
-		},
-		{
-		  "h_id": 2,
-		  "heroname": "BALMOND",
-		  "skin" :{
-			"skin_id": 1,
-			"skin_name": "asdasd",
-			"skin_image": "asdas",
-			"skin_url": "sadas"
-			},
-			 {
-			"skin_id": 2,
-			"skin_name": "asedasd",
-			"skin_image": "asedas",
-			"skin_url": "sadas"
-			},
-		"image": "R.drawable.balmond"
-		},
-	},
-	{
-	"id": 2,
-	"name": "TANKs",
-	"heroes": {
-		  "h_id": "1",
-		  "heroname": "BALMOND",
-		  "skin" :{
-			"skin_id": 1,
-			"skin_name": "asdasd",
-			"skin_image": "asdas",
-			"skin_url": "sadas"
-			},
-			 {
-			"skin_id": 2,
-			"skin_name": "asedasd",
-			"skin_image": "asedas",
-			"skin_url": "sadas"
-			},
-		"image": "R.drawable.balmond"
-		},
-		{
-		  "h_id": "2",
-		  "heroname": "BALMOND",
-		  "skin" :{
-			"skin_id": 1,
-			"skin_name": "asdasd",
-			"skin_image": "asdas",
-			"skin_url": "sadas"
-			},
-			 {
-			"skin_id": 2,
-			"skin_name": "asedasd",
-			"skin_image": "asedas",
-			"skin_url": "sadas"
-			},
-		"image": "R.drawable.balmond"
-		},
+[{
+    "id": 1,
+    "name": "TANK",
+    "heroes": [{
+        "h_id": 1,
+        "heroname": "BALMOND",
+        "skin": [{
+                "skin_id": 1,
+                "skin_name": "asdasd",
+                "skin_image": "asdas",
+                "skin_url": "sadas"
+            },
+            {
+                "skin_id": 1,
+                "skin_name": "asdasd",
+                "skin_image": "asdas",
+                "skin_url": "sadas"
+            }
+        ],
+        "image": "R.drawable.balmond"
+    }]
 
-	},
-]
+}]
