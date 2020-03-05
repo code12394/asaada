@@ -1,49 +1,402 @@
 [{
-        "id": 1,
+        "hero_id": 1,
         "name": "HAYABUSA",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/78/Hayabusa.png"
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/78/Hayabusa.png",
+        "skin": [{
+                "name": "Crimson Shadow",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Space Shadow",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Future Enforcer",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Sushi Master",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Experimental 21",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Shadow of Obscurity",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
-        "id": 2,
+        "hero_id": 2,
         "name": "LANCELOT",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/cd/Lancelot.png"
-    }, {
-        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/cd/Lancelot.png",
+        "skin": [{
+                "name": "Perfumed Knight",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Masked knight",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Christmas Carnival",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Royal Matador",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Dark Earl",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Pisces",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Floral Knight",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 3,
         "name": "GUISON",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/b2/Gusion.png"
-    }, {
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/b2/Gusion.png",
+        "skin": [{
+                "name": "Holy Blade",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Moonlight Sonata",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Hairstylist",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Cyber Ops",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Dangerous Liason",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "V.E.N.O.M Emperor Scorpion",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "K",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 4,
         "id": 4,
         "name": "GRANGER",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/4d/Granger.png"
-    }, {
-        "id": 5,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/4d/Granger.png",
+        "skin": [{
+                "name": "Death Chanter",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Bardic Whisper",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Doomsday Terminator",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Lightbor Overrider",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 4,
         "name": "FANNY",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/54/Fanny.png"
-    }, {
-        "id": 6,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/54/Fanny.png",
+        "skin": [{
+                "name": "Blade Dancer",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Campus Youth",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Punk Pricess",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Skylark",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Royal Calvary",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "LifeGaurd",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Lightborn Ranger",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 6,
         "name": "LESLEY",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/69/Lesley.png"
-    }, {
-        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/69/Lesley.png",
+        "skin": [{
+                "name": "Sniper",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Royal Musketeer",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Genral Rosa",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Cheergunner",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Stellaris Ghost",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Dangerous Loved",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Lightborn Agent",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 7,
         "name": "FRANCO",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/48/Franco.png"
-    }, {
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/48/Franco.png",
+        "skin": [{
+                "name": "Frozen Warrior",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Masterchef",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Apocalypse",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Locomotive",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Wheatfield Nightmare",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Valhalla Ruler",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 8,
         "id": 8,
         "name": "KIMMY",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png"
-    }, {
-        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/65/Kimmy.png",
+        "skin": [{
+                "name": "Splat Queen",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Steam Researcher",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Bio Frontier",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Astrocat",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 9,
         "name": "KARRIE",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png"
-    }, {
-        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/11/Karrie.png",
+        "skin": [{
+                "name": "Rising Star",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Bladed Mantis",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Dragon Quees",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Jester",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Hawkwatch",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Gill Girl",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 10,
         "name": "CLAUDE",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png"
-    }, {
-        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png",
+        "skin": [{
+                "name": "Partner In Crime",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Golden Bullet",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Plunderous Pirate",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Mecha Dragon",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Lifeguard",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Chrismas Carnival",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "hero_id": 11,
         "name": "IRITHEL",
-        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png"
-    }, {
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/6b/Irithel.png",
+        "skin": [{
+                "name": "jungle Heart",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Silver Cyclone",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Hellfire",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Nightarrow",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Sagittarius",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Astral Wanderer",
+                "url_download": "",
+                "image": ""
+            }
+        ]
+    },
+ {
         "id": 12,
         "name": "BALMOND",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e1/Balmond.png"
