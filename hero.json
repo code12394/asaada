@@ -29,8 +29,8 @@
             },
             {
                 "name": "Shadow of Obscurity",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/HayabusaEpic1.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/shadow_of_obscurity.png"
             }
         ]
     },
@@ -70,8 +70,8 @@
             },
             {
                 "name": "Floral Knight",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/LancelotEpic.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/lancelot_floral_night.png"
             }
         ]
     },
@@ -86,8 +86,8 @@
             },
             {
                 "name": "Moonlight Sonata",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/third/raw/master/GuisonMoonLightSonata.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_moonlight_sotana.png"
             },
             {
                 "name": "Hairstylist",
@@ -100,19 +100,24 @@
                 "image": ""
             },
             {
-                "name": "Dangerous Liason",
-                "url_download": "",
-                "image": ""
+                "name": "Gusion saber",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/GusionS.A.B.E.R.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
             },
             {
                 "name": "V.E.N.O.M Emperor Scorpion",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GuisonVenom.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
             },
             {
                 "name": "K",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GusionFullEffectsKOF.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/k_gusion.png"
+            },
+                 {
+                "name": "Iori_YaGusion:",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/GusionFullEffectsKOF.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/lori_yagusion.png"
             }
         ]
     },
@@ -138,8 +143,8 @@
             },
             {
                 "name": "Lightbor Overrider",
-                "url_download": "",
-                "image": ""
+                "url_download": " https://github.com/tejjliit/fourth/raw/master/GrangerLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/granger_overrider.png"
             }
         ]
     },
@@ -164,8 +169,8 @@
             },
             {
                 "name": "Skylark",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyEpic.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/fanny_skylark.png"
             },
             {
                 "name": "Royal Calvary",
@@ -179,8 +184,8 @@
             },
             {
                 "name": "Lightborn Ranger",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/fanny_lightborn_ranger.png"
             }
         ]
     },
@@ -220,8 +225,8 @@
             },
             {
                 "name": "Lightborn Agent",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/LesleyAngelicAgent.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/lesley_angelic_Agent.png"
             }
         ]
     },
@@ -251,8 +256,8 @@
             },
             {
                 "name": "Wheatfield Nightmare",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/FrancoSpecial.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/franco_wheatfield_nightmare.png"
             },
             {
                 "name": "Valhalla Ruler",
@@ -283,8 +288,8 @@
             },
             {
                 "name": "Astrocat",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/KimmyAstrocat.zip",
+                "image":  "https://github.com/loloy123/loloy/raw/master/kimmy_astrocat.png"
             }
         ]
     },
@@ -319,8 +324,8 @@
             },
             {
                 "name": "Gill Girl",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/KarrieMermaid.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/karrie_gill_girl.png"
             }
         ]
     },
@@ -345,8 +350,8 @@
             },
             {
                 "name": "Mecha Dragon",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/CluadeEpic.zip",
+                "image":"https://github.com/loloy123/loloy/raw/master/claude_meca_dragon.png"
             },
             {
                 "name": "Lifeguard",
@@ -376,8 +381,8 @@
             },
             {
                 "name": "Hellfire",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/IrithelEpic.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/irithel_hill_fire.png"
             },
             {
                 "name": "Nightarrow",
