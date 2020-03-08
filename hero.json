@@ -441,118 +441,196 @@
         "name": "TIGREAL",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/be/Tigreal.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 14,
         "name": "MINOTAUR",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/7e/Minotaur.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 15,
         "name": "LOLITA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/22/Lolita.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 16,
         "name": "HILDA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/58/Hilda.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 17,
         "name": "GATOTKACA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/cc/Gatotkaca.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 18,
         "name": "URANUS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/ec/Uranus.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 19,
         "name": "KHUFRA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/02/Khufra.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 20,
         "name": "MASHA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/f/f4/Masha.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 21,
         "name": "AKAI",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/c1/Akai.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 22,
         "name": "JOHNSON",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/56/Johnson.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 23,
         "name": "GROCK",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/2b/Grock.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 24,
         "name": "HYLOS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/d/d6/Hylos.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 25,
         "name": "BELERICK",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/17/Belerick.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 26,
         "name": "ESMERALDA",
@@ -583,74 +661,122 @@
         "name": "BANE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/9/9a/Bane.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 29,
         "name": "ZILONG",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/66/Zilong.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 30,
         "name": "FREYA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/29/Freya.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 31,
         "name": "SUN",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/61/Sun.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 32,
         "name": "ROGER",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/c7/Roger.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 33,
         "name": "ARGUS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/26/Argus.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 34,
         "name": "RUBY",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/a9/Ruby.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 35,
         "name": "KAJA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/16/Kaja.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 36,
         "name": "CHOU",
@@ -676,154 +802,256 @@
         "name": "ALPHA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/a8/Alpha.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 38,
         "name": "LAPULAPU",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Lapu-Lapu.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 39,
         "name": "JAWHEAD",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/a7/Jawhead.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 40,
         "name": "MARTIS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/57/Martis.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 41,
         "name": "ALDOUS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/bc/Aldous.png",
         "skin": [{
-            "name": "King of Supremacy",
-            "url_download": "https://github.com/tejjliit/fourth/raw/master/AldousM1.zip",
-            "image": "https://github.com/loloy123/loloy/raw/master/KingogSupremacy.PNG"
-        }]
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "King of Supremacy",
+                "url_download": "https://github.com/tejjliit/fourth/raw/master/AldousM1.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/KingogSupremacy.PNG"
+            }
+        ]
     }, {
         "id": 42,
         "name": "LEOMORD",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/59/Leomord.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 43,
         "name": "THAMUZ",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/19/Thamuz.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 44,
         "name": "MINSITHAR",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/37/Minsitthar.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 45,
         "name": "BADANG",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/10/Badang.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 46,
         "name": "GUINEVERE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/89/Guinevere.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 47,
         "name": "TERIZLA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/ac/Terizla.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 48,
         "name": "X_BORG",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/55/X.Borg.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 49,
         "name": "DYRROTH",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/b/ba/Dyrroth.png",
         "skin": [{
-            "name": "Ruins Scavenger",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouMuayThai.zip",
-            "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/53/Ruins_Scavenger.jpg/revision/latest/scale-to-width-down/168?cb=20191212094557"
-        }]
+                "name": "Ruins Scavenger",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouMuayThai.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/53/Ruins_Scavenger.jpg/revision/latest/scale-to-width-down/168?cb=20191212094557"
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 50,
         "name": "SILVANNA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/a9/Silvanna.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 51,
         "name": "SABER",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/23/Saber.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 52,
         "name": "HANZO",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/f/ff/Hanzo.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 53,
         "name": "KARINA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/8b/Karina.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 54,
         "name": "NATALIA",
@@ -833,173 +1061,287 @@
         "name": "HELCURT",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/f/f6/Helcurt.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 56,
         "name": "SELENA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1b/Selena.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 57,
         "name": "LING",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/6d/Ling.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 58,
         "name": "NANA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/38/Nana.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 58,
         "name": "EUDORA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/9/93/Eudora.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 60,
         "name": "GORD",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/34/Gord.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 61,
         "name": "CYSLOPS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/a9/Cyclops.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 62,
         "name": "HARLEY",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e4/Harley.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 63,
         "name": "ODETTE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/2/28/Odette.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 64,
         "name": "LUNOX",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/ed/Lunox.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 65,
         "name": "HARITH",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/60/Harith.png",
         "skin": [{
-            "name": "Lightbor Inspire",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/HarithLightborn.zip",
-            "image": "https://github.com/loloy123/loloy/raw/master/harrithLigthborn.PNG"
-        }]
+                "name": "Lightbor Inspire",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/HarithLightborn.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/harrithLigthborn.PNG"
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 66,
         "name": "KAGURA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/a/af/Kagura.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 67,
         "name": "AURORA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/89/Aurora.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 68,
         "name": "VEXANA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0a/Vexana.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 69,
         "name": "VALE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/63/Vale.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 70,
         "name": "ALICE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Alice.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 71,
         "name": "ZHASK",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/f/f6/Zhask.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 72,
         "name": "PHARSA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/7b/Pharsa.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 73,
         "name": "VALIR",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/9/95/Valir.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 74,
         "name": "CHANGE_E",
@@ -1014,112 +1356,184 @@
         "name": "KADITA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/46/Kadita.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 76,
         "name": "FARAMIS",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/72/Faramis.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 77,
         "name": "LYLIA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/6/61/Lylia.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 78,
         "name": "CECILION",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/4/41/Cecilion.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 79,
         "name": "MIYA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/37/Miya.png",
         "skin": [{
-            "name": "Modena Butterfly Legend",
-            "url_download": "https://github.com/tejjliit/fifth/blob/master/MiyaLegend.zip",
-            "image": "https://raw.githubusercontent.com/loloy123/loloy/master/Modena_Butterfly.PNG"
-        }]
+                "name": "Modena Butterfly Legend",
+                "url_download": "https://github.com/tejjliit/fifth/blob/master/MiyaLegend.zip",
+                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/Modena_Butterfly.PNG"
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 80,
         "name": "BRUNO",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e7/Bruno.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 81,
         "name": "LAYLA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/c/c8/Layla.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 82,
         "name": "MOSKOV",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Moskov.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 83,
         "name": "HANABI",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0e/Hanabi.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 84,
         "name": "CLINT",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/3/31/Clint.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 85,
         "name": "YI_SUN_SHIN,WANWAN",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/f/ff/Yi_Sun-Shin.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 86,
         "name": "ESTES",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/7/7c/Estes.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 87,
         "name": "ANGELA",
@@ -1134,28 +1548,46 @@
         "name": "RAFAELA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/87/Rafaela.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }, {
         "id": 89,
         "name": "DIGGIE",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/9/93/Diggie.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     },
     {
         "id": 90,
         "name": "CARMILLA",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1d/Carmilla.png",
         "skin": [{
-            "name": "",
-            "url_download": "",
-            "image": ""
-        }]
+                "name": "",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            }
+        ]
     }
 ]
