@@ -567,10 +567,17 @@
         "name": "ALUCARD",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard.png",
         "skin": [{
-            "name": "Obsidian Blade Legend",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/AlucardLegend.zip",
-            "image": "https://github.com/loloy123/loloy/raw/master/Obsidian_Blade.PNG"
-        }]
+                "name": "normal",
+                "url_download": "",
+                "image": ""
+            },
+            {
+                "name": "Obsidian Blade Legend",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/AlucardLegend.zip",
+                "image": "https://github.com/loloy123/loloy/raw/master/Obsidian_Blade.PNG"
+            }
+
+        ]
     }, {
         "id": 28,
         "name": "BANE",
@@ -649,21 +656,21 @@
         "name": "CHOU",
         "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png",
         "skin": [{
-            "name": "Dragon Boy",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouEpic.zip",
-            "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/5f/Dragon_Boy.jpg/revision/latest/scale-to-width-down/168?cb=20190928182136"
-        },
-        {
-            "name": "Iori Yagami",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouKOF.zip",
-            "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Iori_Yagami.jpg/revision/latest/scale-to-width-down/168?cb=20190708112056"
-        },
-        {
-            "name": "King of Muay Thai",
-            "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouMuayThai.zip",
-            "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1a/King_of_the_Fighter.jpg/revision/latest/scale-to-width-down/168?cb=20171019093559"
-        }
-    ]
+                "name": "Dragon Boy",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouEpic.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/5/5f/Dragon_Boy.jpg/revision/latest/scale-to-width-down/168?cb=20190928182136"
+            },
+            {
+                "name": "Iori Yagami",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouKOF.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/8/82/Iori_Yagami.jpg/revision/latest/scale-to-width-down/168?cb=20190708112056"
+            },
+            {
+                "name": "King of Muay Thai",
+                "url_download": "https://github.com/tejjliit/fifth/raw/master/ChouMuayThai.zip",
+                "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1a/King_of_the_Fighter.jpg/revision/latest/scale-to-width-down/168?cb=20171019093559"
+            }
+        ]
     }, {
         "id": 37,
         "name": "ALPHA",
