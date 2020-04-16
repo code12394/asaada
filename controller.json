@@ -6,8 +6,14 @@
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/ultra%20hd%20map%20ml.zip"
 	},{
 		"id": 1,
-		"name": "ULTRA LOW GRAPHICS MAP ",
+		"name": "ULTRA LOW GRAPHICS DrONE MAP ",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/lowmap.png", 
-		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/ultra%20low%20graphics%20by%20retro%20gaming.zip"
+		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/drview.zip"
+	}
+	,{
+		"id": 1,
+		"name": "ULTRA LOW GRAPHICS STANDARD MAP ",
+		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/lowmap.png", 
+		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/standard.zip"
 	}
 ]
