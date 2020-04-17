@@ -4,23 +4,25 @@
 		"name": "SAKURA GRAPHICS MAP",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/sakura.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/Sakura%20Map%20By%20Retro%20Gaming.zip"
-	},{
+	},
+	{
 		"id": 5,
 		"name": "ULTRA HD GRAPHICS MAP",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/hdmap.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/ultra%20hd%20map%20ml.zip"
-	},{
+	},
+	{
 		"id": 4,
 		"name": "ULTRA LOW GRAPHICS DRONE MAP ",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/lowmap.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/drview.zip"
-	}
-	,{
+	},
+	{
 		"id": 3,
 		"name": "ULTRA LOW GRAPHICS STANDARD MAP ",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/lowmap.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/standard.zip"
-	}
+	},
 	{
 		"id": 2,
 		"name": "ORIGINAL HD GRAPHICS MAP",
