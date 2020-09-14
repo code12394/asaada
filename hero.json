@@ -1,3 +1,4 @@
+
 [{
         "hero_id": 1,
         "name": "HAYABUSA",
@@ -18,14 +19,14 @@
                 "image": ""
             },
             {
-                "name": "Sushi Master",
-                "url_download": "",
-                "image": ""
+               "name": "Sushi Master",
+                "url_download": "https://github.com/Anime22280/heemm/raw/master/hayabusaspecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702833951261327360/Screenshot_2020_0423_162053.png"
             },
             {
                 "name": "Experimental 21",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/Anime22280/francoepic/raw/master/hayabusastar.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702832692617674812/Screenshot_2020_0423_160458.png"
             },
             {
                 "name": "Shadow of Obscurity",
@@ -50,28 +51,28 @@
             },
             {
                 "name": "Christmas Carnival",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/Anime22280/heemm/raw/master/lancespecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702841598374838362/Screenshot_2020_0423_164841.png"
             },
             {
                 "name": "Royal Matador",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LancelotEpic.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702841599251447838/Screenshot_2020_0423_165026.png"
             },
             {
                 "name": "Dark Earl",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/Anime22280/heemm/raw/master/lancestar.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702841598790336573/Screenshot_2020_0423_164900.png"
             },
             {
                 "name": "Pisces",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LancelotZodiac.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702841600136708148/Screenshot_2020_0423_165110.png"
             },
             {
                 "name": "Floral Knight",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/LancelotEpic.zip",
-                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/lancelot_floral_night.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LancelotEpicFN.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702841599604031546/Screenshot_2020_0423_165041.png"
             }
         ]
     },
@@ -89,10 +90,10 @@
                 "url_download": "https://github.com/tejjliit/third/raw/master/GuisonMoonLightSonata.zip",
                 "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_moonlight_sotana.png"
             },
-            {
+           {
                 "name": "Hairstylist",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/Anime22280/heemm/raw/master/gusionhairylist.zipe",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702843964063219752/Screenshot_2020_0423_165832.png"
             },
             {
                 "name": "Cyber Ops",
@@ -100,19 +101,19 @@
                 "image": ""
             },
             {
-                "name": "Gusion saber",
-                "url_download": "https://github.com/tejjliit/fifth/raw/master/GusionS.A.B.E.R.zip",
-                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
+                "name": "Dangerous Liaison",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/GusionSpecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702843964591571014/Screenshot_2020_0423_165947.png"
             },
             {
                 "name": "V.E.N.O.M Emperor Scorpion",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/GuisonVenom.zip",
-                "image": "https://raw.githubusercontent.com/loloy123/loloy/master/gusion_venom.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/GusionV.E.N.O.M.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702843964872720466/Screenshot_2020_0423_170008.png"
             },
             {
                 "name": "K",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/GusionFullEffectsKOF.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/k_gusion.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/GusionKOF.zipe",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/702843965132636190/Screenshot_2020_0423_170030.png"
             },
             {
                 "name": "Iori_YaGusion:",
@@ -131,20 +132,20 @@
                 "url_download": "",
                 "image": ""
             },
-            {
-                "name": "Bardic Whisper",
-                "url_download": "",
-                "image": ""
+           {
+                "name": "Bio Soldier",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/GrangerStarlight.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842077807378472/Screenshot_2020_0504_174138.png"
             },
             {
                 "name": "Doomsday Terminator",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/Anime22280/heemm/raw/master/grangerelit.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/705231482255441930/Screenshot_2020_0430_070719.png"
             },
             {
                 "name": "Lightbor Overrider",
-                "url_download": " https://github.com/tejjliit/fourth/raw/master/GrangerLightborn.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/granger_overrider.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/GrangerLightborn.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/705231506322227270/Screenshot_2020_0430_070736.png"
             }
         ]
     },
@@ -167,25 +168,25 @@
                 "url_download": "",
                 "image": ""
             },
-            {
+             {
                 "name": "Skylark",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyEpic.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/fanny_skylark.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FannyEpic.zip?",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842162821726248/Screenshot_2020_0504_174331.png"
             },
             {
                 "name": "Royal Calvary",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FannyStarlight.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842163429769226/Screenshot_2020_0504_174233.png"
             },
             {
                 "name": "LifeGaurd",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FannyLifeguard.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842164440727612/Screenshot_2020_0504_174259.png"
             },
             {
                 "name": "Lightborn Ranger",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/FannyLightborn.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/fanny_lightborn_ranger.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FannyLightborn.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842165384314880/Screenshot_2020_0504_174413.png"
             }
         ]
     },
@@ -203,6 +204,11 @@
                 "url_download": "",
                 "image": ""
             },
+           {
+                "name": "Lethal Lady",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LesleyStarlight.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842261333344337/Screenshot_2020_0504_174624.png"
+            },
             {
                 "name": "Genral Rosa",
                 "url_download": "",
@@ -210,23 +216,23 @@
             },
             {
                 "name": "Cheergunner",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LesleySpecialCG.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842264013504532/Screenshot_2020_0504_174717.png"
             },
             {
                 "name": "Stellaris Ghost",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LesleyStellarisGhos.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842262138519652/Screenshot_2020_0504_174701.png"
             },
             {
-                "name": "Dangerous Loved",
-                "url_download": "",
-                "image": ""
+                "name": "Dangerous Love",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LesleySpecialDL.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842261681340446/Screenshot_2020_0504_174643.png"
             },
             {
-                "name": "Lightborn Agent",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/LesleyAngelicAgent.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/lesley_angelic_Agent.png"
+                "name": "Angelic Agent",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/LesleyAngelicAgent.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706844108257493022/Screenshot_2020_0504_175556.png"
             }
         ]
     },
@@ -254,15 +260,15 @@
                 "url_download": "",
                 "image": ""
             },
-            {
+           {
                 "name": "Wheatfield Nightmare",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/FrancoSpecial.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/franco_wheatfield_nightmare.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FrancoSpecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847113476046868/Screenshot_2020_0504_180039.png"
             },
             {
                 "name": "Valhalla Ruler",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/FrancoEpic.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847113098821652/Screenshot_2020_0504_180023.png"
             }
         ]
     },
@@ -281,15 +287,20 @@
                 "url_download": "",
                 "image": ""
             },
+           {
+                "name": "Charge Leader",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KimmyElite.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847144576942110/Screenshot_2020_0504_180226.png"
+            },
             {
                 "name": "Bio Frontier",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KimmyStarlight.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847145109487656/Screenshot_2020_0504_180259.png"
             },
             {
                 "name": "Astrocat",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/KimmyAstrocat.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/kimmy_astrocat.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KimmyEpic.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847144820080730/Screenshot_2020_0504_180242.png"
             }
         ]
     },
@@ -304,28 +315,28 @@
             },
             {
                 "name": "Bladed Mantis",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KarrieElite.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847187090407455/Screenshot_2020_0504_180450.png"
             },
             {
-                "name": "Dragon Quees",
-                "url_download": "",
-                "image": ""
+                "name": "Dragon Queen",
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KarrieStarlight.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847186436227142/Screenshot_2020_0504_180358.png"
             },
             {
                 "name": "Jester",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KarrieSpecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847187799113798/Screenshot_2020_0504_180536.png"
             },
             {
                 "name": "Hawkwatch",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KarrieEpicHW.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847186083643432/Screenshot_2020_0504_180434.png"
             },
             {
                 "name": "Gill Girl",
-                "url_download": "https://github.com/tejjliit/fourth/raw/master/KarrieMermaid.zip",
-                "image": "https://github.com/loloy123/loloy/raw/master/karrie_gill_girl.png"
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/KarrieEpic.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847186750799922/Screenshot_2020_0504_180419.png"
             }
         ]
     },
@@ -353,15 +364,15 @@
                 "url_download": "https://github.com/tejjliit/fourth/raw/master/CluadeEpic.zip",
                 "image": "https://github.com/loloy123/loloy/raw/master/claude_meca_dragon.png"
             },
-            {
+           {
                 "name": "Lifeguard",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/ClaudeLifeguard.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847257437143040/Screenshot_2020_0504_180709.png"
             },
             {
                 "name": "Chrismas Carnival",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/raw/master/ClaudeSpecial.zip",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706847257751715920/Screenshot_2020_0504_180728.png"
             }
         ]
     },
@@ -1593,6 +1604,43 @@
                 "name": "normal",
                 "url_download": "",
                 "image": ""
+            }
+        ]
+    },
+,
+ {
+        "hero_id": 92,
+        "name": "MAGIC CHESS MAP",
+        "image": "https://cdn.discordapp.com/attachments/707134663029948458/707151234431451186/20200505_141524.png",
+        "skin": [{
+                "name": "Breath Of Spring",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707135221597995048/Breath_Of_Spring.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134756156080168/Screenshot_2020_0505_130702.png"
+            },
+            {
+                "name": "Celestial Palace",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707149314853568542/Celestial_Palace.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134755728261170/Screenshot_2020_0505_130716.png"
+            },
+            {
+                "name": "Empire Battlefield",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707149390132936704/Empire_Battlefield.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134755132538950/Screenshot_2020_0505_130729.png"
+            },
+            {
+                "name": "Necrokeep",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707149462891397140/NecroKeep.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134754503393360/Screenshot_2020_0505_130756.png"
+            },
+            {
+                "name": "Machine Shop{Epic}",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707149425663016966/Machine_Shop_Epic.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134753878310972/Screenshot_2020_0505_130809.png"
+            },
+            {
+                "name": "Desolate Ruin",
+                "url_download": "https://cdn.discordapp.com/attachments/707134856873640018/707149347250503730/Desolate_Ruin.zip",
+                "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134753266073610/Screenshot_2020_0505_130821.png"
             }
         ]
     }
